@@ -28,8 +28,9 @@ More info: [Writing](https://hexo.io/docs/writing.html)
 
 ### Run server
 
-``` bash
-$ hexo server
+``` js
+var a = 1;
+var b = '222';
 ```
 
 More info: [Server](https://hexo.io/docs/server.html)
